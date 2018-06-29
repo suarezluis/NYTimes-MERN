@@ -1,0 +1,8 @@
+.card-header{
+    background-color: transparent !important;
+}
+
+.btn, btn:hover{
+    background-color: transparent !important;
+    color: black !important;
+}
